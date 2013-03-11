@@ -18,6 +18,10 @@ Image source: https://layervault.com/about
 Colour: #003366 (SVG)
 Image source: http://en.wikipedia.org/wiki/File:NationalRail.svg
 
+# Pingup
+Colour: #00B1AB (Guidelines)
+Image source: http://pingup.com/resources
+
 # Trip Advisor
 
 Colour: #589442 (CSS)
