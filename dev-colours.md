@@ -1,20 +1,24 @@
-# Designer News
+# Codepen
+Colour: #231F20 (PDF)
+Image source: http://blog.codepen.io/documentation/brand-assets/logos/
 
+# Designer News
 Colour: #1C52A2 (CSS)
 Image source: https://news.layervault.com/
 
-# jsFiddle
+# JSDB
+Colour: #DA320B (CSS)
+Image source: http://www.jsdb.io/
 
+# jsFiddle
 Colour: #4679A4 (SVG)
 Image source: http://doc.jsfiddle.net/meta/downloads.html#logos
 
 # Layer Vault
-
 Colour: #26AE90 (CSS)
 Image source: https://layervault.com/about
 
 # National Rail
-
 Colour: #003366 (SVG)
 Image source: http://en.wikipedia.org/wiki/File:NationalRail.svg
 
@@ -22,7 +26,14 @@ Image source: http://en.wikipedia.org/wiki/File:NationalRail.svg
 Colour: #00B1AB (Guidelines)
 Image source: http://pingup.com/resources
 
-# Trip Advisor
+# Proto.io
+Colour: #40C8F4 (CSS)
+Image source: http://proto.io/en/presskit/
 
+# Trip Advisor
 Colour: #589442 (CSS)
 Image source: http://www.seeklogo.com/trip-advisor-logo-142352.html
+
+# Viadeo
+Colour: #F4982B (JPEG)
+Image source: http://corporate.viadeo.com/en/media/resources/
