@@ -26,6 +26,10 @@ Image source: http://doc.jsfiddle.net/meta/downloads.html#logos
 Colour: #26AE90 (CSS)
 Image source: https://layervault.com/about
 
+# Letterboxd
+Colour: #2C3641 (CSS)
+Image source: http://letterboxd.com/about/media-kit/
+
 # National Rail
 Colour: #003366 (SVG)
 Image source: http://en.wikipedia.org/wiki/File:NationalRail.svg
