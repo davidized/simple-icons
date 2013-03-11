@@ -2,6 +2,10 @@
 Colour: #231F20 (PDF)
 Image source: http://blog.codepen.io/documentation/brand-assets/logos/
 
+# Delicious
+Colour: #3274D1 (PSD)
+Image source: https://delicious.com
+
 # Designer News
 Colour: #1C52A2 (CSS)
 Image source: https://news.layervault.com/
