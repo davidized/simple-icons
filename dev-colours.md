@@ -10,6 +10,10 @@ Image source: https://delicious.com
 Colour: #1C52A2 (CSS)
 Image source: https://news.layervault.com/
 
+# DeviantART
+Colour: #4B5D50 (AI)
+Image source: http://www.logoeps.com/deviantart-logo-vector/786/
+
 # JSDB
 Colour: #DA320B (CSS)
 Image source: http://www.jsdb.io/
