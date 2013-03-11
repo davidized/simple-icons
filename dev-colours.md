@@ -14,6 +14,10 @@ Image source: https://news.layervault.com/
 Colour: #4B5D50 (AI)
 Image source: http://www.logoeps.com/deviantart-logo-vector/786/
 
+# Formspring
+Colour: #0076C0 (PSD)
+Image source: http://www.formspring.me/about/resources
+
 # JSDB
 Colour: #DA320B (CSS)
 Image source: http://www.jsdb.io/
