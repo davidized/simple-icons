@@ -652,6 +652,43 @@
 	background-image: url('icons/codecademy/codecademy-4096.png')
 }
 
+.codepen {
+	background-color:  	#231f20;
+}
+.codepen.icon16 {
+	background-image: url('icons/codepen/codepen-16.png')
+}
+.codepen.icon24 {
+	background-image: url('icons/codepen/codepen-24.png')
+}
+.codepen.icon32 {
+	background-image: url('icons/codepen/codepen-32.png')
+}
+.codepen.icon48 {
+	background-image: url('icons/codepen/codepen-48.png')
+}
+.codepen.icon64 {
+	background-image: url('icons/codepen/codepen-64.png')
+}
+.codepen.icon128 {
+	background-image: url('icons/codepen/codepen-128.png')
+}
+.codepen.icon256 {
+	background-image: url('icons/codepen/codepen-256.png')
+}
+.codepen.icon512 {
+	background-image: url('icons/codepen/codepen-512.png')
+}
+.codepen.icon1024 {
+	background-image: url('icons/codepen/codepen-1024.png')
+}
+.codepen.icon2048 {
+	background-image: url('icons/codepen/codepen-2048.png')
+}
+.codepen.icon4096 {
+	background-image: url('icons/codepen/codepen-4096.png')
+}
+
 .coderwall {
 	background-color: #3e8dcc;
 }
@@ -835,6 +872,117 @@
 }
 .css3.icon4096 {
 	background-image: url('icons/css3/css3-4096.png')
+}
+
+.delicious {
+	background-color: #3274d1;
+}
+.delicious.icon16 {
+	background-image: url('icons/delicious/delicious-16.png')
+}
+.delicious.icon24 {
+	background-image: url('icons/delicious/delicious-24.png')
+}
+.delicious.icon32 {
+	background-image: url('icons/delicious/delicious-32.png')
+}
+.delicious.icon48 {
+	background-image: url('icons/delicious/delicious-48.png')
+}
+.delicious.icon64 {
+	background-image: url('icons/delicious/delicious-64.png')
+}
+.delicious.icon128 {
+	background-image: url('icons/delicious/delicious-128.png')
+}
+.delicious.icon256 {
+	background-image: url('icons/delicious/delicious-256.png')
+}
+.delicious.icon512 {
+	background-image: url('icons/delicious/delicious-512.png')
+}
+.delicious.icon1024 {
+	background-image: url('icons/delicious/delicious-1024.png')
+}
+.delicious.icon2048 {
+	background-image: url('icons/delicious/delicious-2048.png')
+}
+.delicious.icon4096 {
+	background-image: url('icons/delicious/delicious-4096.png')
+}
+
+.designernews {
+	background-color: #1c52a2;
+}
+.designernews.icon16 {
+	background-image: url('icons/designernews/designernews-16.png')
+}
+.designernews.icon24 {
+	background-image: url('icons/designernews/designernews-24.png')
+}
+.designernews.icon32 {
+	background-image: url('icons/designernews/designernews-32.png')
+}
+.designernews.icon48 {
+	background-image: url('icons/designernews/designernews-48.png')
+}
+.designernews.icon64 {
+	background-image: url('icons/designernews/designernews-64.png')
+}
+.designernews.icon128 {
+	background-image: url('icons/designernews/designernews-128.png')
+}
+.designernews.icon256 {
+	background-image: url('icons/designernews/designernews-256.png')
+}
+.designernews.icon512 {
+	background-image: url('icons/designernews/designernews-512.png')
+}
+.designernews.icon1024 {
+	background-image: url('icons/designernews/designernews-1024.png')
+}
+.designernews.icon2048 {
+	background-image: url('icons/designernews/designernews-2048.png')
+}
+.designernews.icon4096 {
+	background-image: url('icons/designernews/designernews-4096.png')
+}
+
+.deviantart {
+	background-color: #4b5d50;
+}
+.deviantart.icon16 {
+	background-image: url('icons/deviantart/deviantart-16.png')
+}
+.deviantart.icon24 {
+	background-image: url('icons/deviantart/deviantart-24.png')
+}
+.deviantart.icon32 {
+	background-image: url('icons/deviantart/deviantart-32.png')
+}
+.deviantart.icon48 {
+	background-image: url('icons/deviantart/deviantart-48.png')
+}
+.deviantart.icon64 {
+	background-image: url('icons/deviantart/deviantart-64.png')
+}
+.deviantart.icon128 {
+	background-image: url('icons/deviantart/deviantart-128.png')
+}
+.deviantart.icon256 {
+	background-image: url('icons/deviantart/deviantart-256.png')
+}
+.deviantart.icon512 {
+	background-image: url('icons/deviantart/deviantart-512.png')
+}
+.deviantart.icon1024 {
+	background-image: url('icons/deviantart/deviantart-1024.png')
+}
+.deviantart.icon2048 {
+	background-image: url('icons/deviantart/deviantart-2048.png')
+}
+.deviantart.icon4096 {
+	background-image: url('icons/deviantart/deviantart-4096.png')
 }
 
 .digg {
@@ -1316,6 +1464,43 @@
 }
 .flickr.icon4096 {
 	background-image: url('icons/flickr/flickr-4096.png')
+}
+
+.formspring {
+	background-color: #0076C0;
+}
+.formspring.icon16 {
+	background-image: url('icons/formspring/formspring-16.png')
+}
+.formspring.icon24 {
+	background-image: url('icons/formspring/formspring-24.png')
+}
+.formspring.icon32 {
+	background-image: url('icons/formspring/formspring-32.png')
+}
+.formspring.icon48 {
+	background-image: url('icons/formspring/formspring-48.png')
+}
+.formspring.icon64 {
+	background-image: url('icons/formspring/formspring-64.png')
+}
+.formspring.icon128 {
+	background-image: url('icons/formspring/formspring-128.png')
+}
+.formspring.icon256 {
+	background-image: url('icons/formspring/formspring-256.png')
+}
+.formspring.icon512 {
+	background-image: url('icons/formspring/formspring-512.png')
+}
+.formspring.icon1024 {
+	background-image: url('icons/formspring/formspring-1024.png')
+}
+.formspring.icon2048 {
+	background-image: url('icons/formspring/formspring-2048.png')
+}
+.formspring.icon4096 {
+	background-image: url('icons/formspring/formspring-4096.png')
 }
 
 .forrst {
@@ -1910,6 +2095,80 @@
 	background-image: url('icons/jqueryui/jqueryui-4096.png')
 }
 
+.jsdb {
+	background-color: #da320b;
+}
+.jsdb.icon16 {
+	background-image: url('icons/jsdb/jsdb-16.png')
+}
+.jsdb.icon24 {
+	background-image: url('icons/jsdb/jsdb-24.png')
+}
+.jsdb.icon32 {
+	background-image: url('icons/jsdb/jsdb-32.png')
+}
+.jsdb.icon48 {
+	background-image: url('icons/jsdb/jsdb-48.png')
+}
+.jsdb.icon64 {
+	background-image: url('icons/jsdb/jsdb-64.png')
+}
+.jsdb.icon128 {
+	background-image: url('icons/jsdb/jsdb-128.png')
+}
+.jsdb.icon256 {
+	background-image: url('icons/jsdb/jsdb-256.png')
+}
+.jsdb.icon512 {
+	background-image: url('icons/jsdb/jsdb-512.png')
+}
+.jsdb.icon1024 {
+	background-image: url('icons/jsdb/jsdb-1024.png')
+}
+.jsdb.icon2048 {
+	background-image: url('icons/jsdb/jsdb-2048.png')
+}
+.jsdb.icon4096 {
+	background-image: url('icons/jsdb/jsdb-4096.png')
+}
+
+.jsfiddle {
+	background-color: #4679a4;
+}
+.jsfiddle.icon16 {
+	background-image: url('icons/jsfiddle/jsfiddle-16.png')
+}
+.jsfiddle.icon24 {
+	background-image: url('icons/jsfiddle/jsfiddle-24.png')
+}
+.jsfiddle.icon32 {
+	background-image: url('icons/jsfiddle/jsfiddle-32.png')
+}
+.jsfiddle.icon48 {
+	background-image: url('icons/jsfiddle/jsfiddle-48.png')
+}
+.jsfiddle.icon64 {
+	background-image: url('icons/jsfiddle/jsfiddle-64.png')
+}
+.jsfiddle.icon128 {
+	background-image: url('icons/jsfiddle/jsfiddle-128.png')
+}
+.jsfiddle.icon256 {
+	background-image: url('icons/jsfiddle/jsfiddle-256.png')
+}
+.jsfiddle.icon512 {
+	background-image: url('icons/jsfiddle/jsfiddle-512.png')
+}
+.jsfiddle.icon1024 {
+	background-image: url('icons/jsfiddle/jsfiddle-1024.png')
+}
+.jsfiddle.icon2048 {
+	background-image: url('icons/jsfiddle/jsfiddle-2048.png')
+}
+.jsfiddle.icon4096 {
+	background-image: url('icons/jsfiddle/jsfiddle-4096.png')
+}
+
 .justgiving {
 	background-color: #78256d;
 }
@@ -2132,6 +2391,80 @@
 	background-image: url('icons/lastfm/lastfm-4096.png')
 }
 
+.layervault {
+	background-color: #26ae90;
+}
+.layervault.icon16 {
+	background-image: url('icons/layervault/layervault-16.png')
+}
+.layervault.icon24 {
+	background-image: url('icons/layervault/layervault-24.png')
+}
+.layervault.icon32 {
+	background-image: url('icons/layervault/layervault-32.png')
+}
+.layervault.icon48 {
+	background-image: url('icons/layervault/layervault-48.png')
+}
+.layervault.icon64 {
+	background-image: url('icons/layervault/layervault-64.png')
+}
+.layervault.icon128 {
+	background-image: url('icons/layervault/layervault-128.png')
+}
+.layervault.icon256 {
+	background-image: url('icons/layervault/layervault-256.png')
+}
+.layervault.icon512 {
+	background-image: url('icons/layervault/layervault-512.png')
+}
+.layervault.icon1024 {
+	background-image: url('icons/layervault/layervault-1024.png')
+}
+.layervault.icon2048 {
+	background-image: url('icons/layervault/layervault-2048.png')
+}
+.layervault.icon4096 {
+	background-image: url('icons/layervault/layervault-4096.png')
+}
+
+.letterboxd {
+	background-color: #2c3641;
+}
+.letterboxd.icon16 {
+	background-image: url('icons/letterboxd/letterboxd-16.png')
+}
+.letterboxd.icon24 {
+	background-image: url('icons/letterboxd/letterboxd-24.png')
+}
+.letterboxd.icon32 {
+	background-image: url('icons/letterboxd/letterboxd-32.png')
+}
+.letterboxd.icon48 {
+	background-image: url('icons/letterboxd/letterboxd-48.png')
+}
+.letterboxd.icon64 {
+	background-image: url('icons/letterboxd/letterboxd-64.png')
+}
+.letterboxd.icon128 {
+	background-image: url('icons/letterboxd/letterboxd-128.png')
+}
+.letterboxd.icon256 {
+	background-image: url('icons/letterboxd/letterboxd-256.png')
+}
+.letterboxd.icon512 {
+	background-image: url('icons/letterboxd/letterboxd-512.png')
+}
+.letterboxd.icon1024 {
+	background-image: url('icons/letterboxd/letterboxd-1024.png')
+}
+.letterboxd.icon2048 {
+	background-image: url('icons/letterboxd/letterboxd-2048.png')
+}
+.letterboxd.icon4096 {
+	background-image: url('icons/letterboxd/letterboxd-4096.png')
+}
+
 .liberaldemocrats {
 	background-color: #f7b135;
 }
@@ -2352,6 +2685,43 @@
 }
 .myspace.icon4096 {
 	background-image: url('icons/myspace/myspace-4096.png')
+}
+
+.nationalrail {
+	background-color: #003366;
+}
+.nationalrail.icon16 {
+	background-image: url('icons/nationalrail/nationalrail-16.png')
+}
+.nationalrail.icon24 {
+	background-image: url('icons/nationalrail/nationalrail-24.png')
+}
+.nationalrail.icon32 {
+	background-image: url('icons/nationalrail/nationalrail-32.png')
+}
+.nationalrail.icon48 {
+	background-image: url('icons/nationalrail/nationalrail-48.png')
+}
+.nationalrail.icon64 {
+	background-image: url('icons/nationalrail/nationalrail-64.png')
+}
+.nationalrail.icon128 {
+	background-image: url('icons/nationalrail/nationalrail-128.png')
+}
+.nationalrail.icon256 {
+	background-image: url('icons/nationalrail/nationalrail-256.png')
+}
+.nationalrail.icon512 {
+	background-image: url('icons/nationalrail/nationalrail-512.png')
+}
+.nationalrail.icon1024 {
+	background-image: url('icons/nationalrail/nationalrail-1024.png')
+}
+.nationalrail.icon2048 {
+	background-image: url('icons/nationalrail/nationalrail-2048.png')
+}
+.nationalrail.icon4096 {
+	background-image: url('icons/nationalrail/nationalrail-4096.png')
 }
 
 .newsvine {
@@ -2613,6 +2983,43 @@
 	background-image: url('icons/pinboard/pinboard-4096.png')
 }
 
+.pingup {
+	background-color: #00b1ab;
+}
+.pingup.icon16 {
+	background-image: url('icons/pingup/pingup-16.png')
+}
+.pingup.icon24 {
+	background-image: url('icons/pingup/pingup-24.png')
+}
+.pingup.icon32 {
+	background-image: url('icons/pingup/pingup-32.png')
+}
+.pingup.icon48 {
+	background-image: url('icons/pingup/pingup-48.png')
+}
+.pingup.icon64 {
+	background-image: url('icons/pingup/pingup-64.png')
+}
+.pingup.icon128 {
+	background-image: url('icons/pingup/pingup-128.png')
+}
+.pingup.icon256 {
+	background-image: url('icons/pingup/pingup-256.png')
+}
+.pingup.icon512 {
+	background-image: url('icons/pingup/pingup-512.png')
+}
+.pingup.icon1024 {
+	background-image: url('icons/pingup/pingup-1024.png')
+}
+.pingup.icon2048 {
+	background-image: url('icons/pingup/pingup-2048.png')
+}
+.pingup.icon4096 {
+	background-image: url('icons/pingup/pingup-4096.png')
+}
+
 .pinterest {
 	background-color: #cb2027;
 }
@@ -2685,6 +3092,80 @@
 }
 .posterous.icon4096 {
 	background-image: url('icons/posterous/posterous-4096.png')
+}
+
+.protoio {
+	background-color: #40c8f4;
+}
+.protoio.icon16 {
+	background-image: url('icons/protoio/protoio-16.png')
+}
+.protoio.icon24 {
+	background-image: url('icons/protoio/protoio-24.png')
+}
+.protoio.icon32 {
+	background-image: url('icons/protoio/protoio-32.png')
+}
+.protoio.icon48 {
+	background-image: url('icons/protoio/protoio-48.png')
+}
+.protoio.icon64 {
+	background-image: url('icons/protoio/protoio-64.png')
+}
+.protoio.icon128 {
+	background-image: url('icons/protoio/protoio-128.png')
+}
+.protoio.icon256 {
+	background-image: url('icons/protoio/protoio-256.png')
+}
+.protoio.icon512 {
+	background-image: url('icons/protoio/protoio-512.png')
+}
+.protoio.icon1024 {
+	background-image: url('icons/protoio/protoio-1024.png')
+}
+.protoio.icon2048 {
+	background-image: url('icons/protoio/protoio-2048.png')
+}
+.protoio.icon4096 {
+	background-image: url('icons/protoio/protoio-4096.png')
+}
+
+.rails {
+	background-color: #a62c39;
+}
+.rails.icon16 {
+	background-image: url('icons/rails/rails-16.png')
+}
+.rails.icon24 {
+	background-image: url('icons/rails/rails-24.png')
+}
+.rails.icon32 {
+	background-image: url('icons/rails/rails-32.png')
+}
+.rails.icon48 {
+	background-image: url('icons/rails/rails-48.png')
+}
+.rails.icon64 {
+	background-image: url('icons/rails/rails-64.png')
+}
+.rails.icon128 {
+	background-image: url('icons/rails/rails-128.png')
+}
+.rails.icon256 {
+	background-image: url('icons/rails/rails-256.png')
+}
+.rails.icon512 {
+	background-image: url('icons/rails/rails-512.png')
+}
+.rails.icon1024 {
+	background-image: url('icons/rails/rails-1024.png')
+}
+.rails.icon2048 {
+	background-image: url('icons/rails/rails-2048.png')
+}
+.rails.icon4096 {
+	background-image: url('icons/rails/rails-4096.png')
 }
 
 .readability {
@@ -3353,6 +3834,43 @@
 	background-image: url('icons/treehouse/treehouse-4096.png')
 }
 
+.tripadvisor {
+	background-color: #589442;
+}
+.tripadvisor.icon16 {
+	background-image: url('icons/tripadvisor/tripadvisor-16.png')
+}
+.tripadvisor.icon24 {
+	background-image: url('icons/tripadvisor/tripadvisor-24.png')
+}
+.tripadvisor.icon32 {
+	background-image: url('icons/tripadvisor/tripadvisor-32.png')
+}
+.tripadvisor.icon48 {
+	background-image: url('icons/tripadvisor/tripadvisor-48.png')
+}
+.tripadvisor.icon64 {
+	background-image: url('icons/tripadvisor/tripadvisor-64.png')
+}
+.tripadvisor.icon128 {
+	background-image: url('icons/tripadvisor/tripadvisor-128.png')
+}
+.tripadvisor.icon256 {
+	background-image: url('icons/tripadvisor/tripadvisor-256.png')
+}
+.tripadvisor.icon512 {
+	background-image: url('icons/tripadvisor/tripadvisor-512.png')
+}
+.tripadvisor.icon1024 {
+	background-image: url('icons/tripadvisor/tripadvisor-1024.png')
+}
+.tripadvisor.icon2048 {
+	background-image: url('icons/tripadvisor/tripadvisor-2048.png')
+}
+.tripadvisor.icon4096 {
+	background-image: url('icons/tripadvisor/tripadvisor-4096.png')
+}
+
 .tumblr {
 	background-color: #2c4762;
 }
@@ -3425,6 +3943,80 @@
 }
 .twitter.icon4096 {
 	background-image: url('icons/twitter/twitter-4096.png')
+}
+
+.typo3 {
+	background-color: #ff8700;
+}
+.typo3.icon16 {
+	background-image: url('icons/typo3/typo3-16.png')
+}
+.typo3.icon24 {
+	background-image: url('icons/typo3/typo3-24.png')
+}
+.typo3.icon32 {
+	background-image: url('icons/typo3/typo3-32.png')
+}
+.typo3.icon48 {
+	background-image: url('icons/typo3/typo3-48.png')
+}
+.typo3.icon64 {
+	background-image: url('icons/typo3/typo3-64.png')
+}
+.typo3.icon128 {
+	background-image: url('icons/typo3/typo3-128.png')
+}
+.typo3.icon256 {
+	background-image: url('icons/typo3/typo3-256.png')
+}
+.typo3.icon512 {
+	background-image: url('icons/typo3/typo3-512.png')
+}
+.typo3.icon1024 {
+	background-image: url('icons/typo3/typo3-1024.png')
+}
+.typo3.icon2048 {
+	background-image: url('icons/typo3/typo3-2048.png')
+}
+.typo3.icon4096 {
+	background-image: url('icons/typo3/typo3-4096.png')
+}
+
+.viadeo {
+	background-color: #f4982b;
+}
+.viadeo.icon16 {
+	background-image: url('icons/viadeo/viadeo-16.png')
+}
+.viadeo.icon24 {
+	background-image: url('icons/viadeo/viadeo-24.png')
+}
+.viadeo.icon32 {
+	background-image: url('icons/viadeo/viadeo-32.png')
+}
+.viadeo.icon48 {
+	background-image: url('icons/viadeo/viadeo-48.png')
+}
+.viadeo.icon64 {
+	background-image: url('icons/viadeo/viadeo-64.png')
+}
+.viadeo.icon128 {
+	background-image: url('icons/viadeo/viadeo-128.png')
+}
+.viadeo.icon256 {
+	background-image: url('icons/viadeo/viadeo-256.png')
+}
+.viadeo.icon512 {
+	background-image: url('icons/viadeo/viadeo-512.png')
+}
+.viadeo.icon1024 {
+	background-image: url('icons/viadeo/viadeo-1024.png')
+}
+.viadeo.icon2048 {
+	background-image: url('icons/viadeo/viadeo-2048.png')
+}
+.viadeo.icon4096 {
+	background-image: url('icons/viadeo/viadeo-4096.png')
 }
 
 .vimeo {
