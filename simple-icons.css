@@ -60,7 +60,7 @@
 	background-size: 4096px 4096px;
 }
 
-.500px {
+.simple-icon.500px {
 	background-color: #444444;
 }
 .500px.icon16 {
@@ -97,7 +97,7 @@
 	background-image: url('icons/500px/500px-4096.png')
 }
 
-.aboutme {
+.simple-icon.aboutme {
 	background-color: #00405d;
 }
 .aboutme.icon16 {
@@ -134,7 +134,7 @@
 	background-image: url('icons/aboutme/aboutme-4096.png')
 }
 
-.alistapart {
+.simple-icon.alistapart {
 	background-color: #222222;
 }
 .alistapart.icon16 {
@@ -171,7 +171,7 @@
 	background-image: url('icons/alistapart/alistapart-4096.png')
 }
 
-.amazon {
+.simple-icon.amazon {
 	background-color: #ff9900;
 }
 .amazon.icon16 {
@@ -208,7 +208,7 @@
 	background-image: url('icons/amazon/amazon-4096.png')
 }
 
-.amazonwishlist {
+.simple-icon.amazonwishlist {
 	background-color: #ff9900;
 }
 .amazonwishlist.icon16 {
@@ -245,7 +245,7 @@
 	background-image: url('icons/amazonwishlist/amazonwishlist-4096.png')
 }
 
-.android {
+.simple-icon.android {
 	background-color: #a4c639;
 }
 .android.icon16 {
@@ -282,7 +282,7 @@
 	background-image: url('icons/android/android-4096.png')
 }
 
-.appdotnet {
+.simple-icon.appdotnet {
 	background-color: #898d90;
 }
 .appdotnet.icon16 {
@@ -319,7 +319,7 @@
 	background-image: url('icons/appdotnet/appdotnet-4096.png')
 }
 
-.apple {
+.simple-icon.apple {
 	background-color: #b9bfc1;
 }
 .apple.icon16 {
@@ -356,7 +356,7 @@
 	background-image: url('icons/apple/apple-4096.png')
 }
 
-.audioboo {
+.simple-icon.audioboo {
 	background-color: #ae006e;
 }
 .audioboo.icon16 {
@@ -393,7 +393,7 @@
 	background-image: url('icons/audioboo/audioboo-4096.png')
 }
 
-.aws {
+.simple-icon.aws {
 	background-color: #ff9900;
 }
 .aws.icon16 {
@@ -430,7 +430,7 @@
 	background-image: url('icons/aws/aws-4096.png')
 }
 
-.bebo {
+.simple-icon.bebo {
 	background-color: #ee1010;
 }
 .bebo.icon16 {
@@ -467,7 +467,7 @@
 	background-image: url('icons/bebo/bebo-4096.png')
 }
 
-.behance {
+.simple-icon.behance {
 	background-color: #1769ff;
 }
 .behance.icon16 {
@@ -504,7 +504,7 @@
 	background-image: url('icons/behance/behance-4096.png')
 }
 
-.blip {
+.simple-icon.blip {
 	background-color: #ff1919;
 }
 .blip.icon16 {
@@ -541,7 +541,7 @@
 	background-image: url('icons/blip/blip-4096.png')
 }
 
-.blogger {
+.simple-icon.blogger {
 	background-color: #f57d00;
 }
 .blogger.icon16 {
@@ -578,7 +578,7 @@
 	background-image: url('icons/blogger/blogger-4096.png')
 }
 
-.bootstrap {
+.simple-icon.bootstrap {
 	background-color: #0088cc;
 }
 .bootstrap.icon16 {
@@ -615,7 +615,7 @@
 	background-image: url('icons/bootstrap/bootstrap-4096.png')
 }
 
-.codecademy {
+.simple-icon.codecademy {
 	background-color: #0088cc;
 }
 .codecademy.icon16 {
@@ -652,7 +652,7 @@
 	background-image: url('icons/codecademy/codecademy-4096.png')
 }
 
-.codepen {
+.simple-icon.codepen {
 	background-color:  	#231f20;
 }
 .codepen.icon16 {
@@ -689,7 +689,7 @@
 	background-image: url('icons/codepen/codepen-4096.png')
 }
 
-.coderwall {
+.simple-icon.coderwall {
 	background-color: #3e8dcc;
 }
 .coderwall.icon16 {
@@ -726,7 +726,7 @@
 	background-image: url('icons/coderwall/coderwall-4096.png')
 }
 
-.codeschool {
+.simple-icon.codeschool {
 	background-color: #c68044;
 }
 .codeschool.icon16 {
@@ -763,7 +763,7 @@
 	background-image: url('icons/codeschool/codeschool-4096.png')
 }
 
-.conservatives {
+.simple-icon.conservatives {
 	background-color: #0087dc;
 }
 .conservatives.icon16 {
@@ -800,7 +800,7 @@
 	background-image: url('icons/conservatives/conservatives-4096.png')
 }
 
-.coursera {
+.simple-icon.coursera {
 	background-color: #3a6d8e;
 }
 .coursera.icon16 {
@@ -837,7 +837,7 @@
 	background-image: url('icons/coursera/coursera-4096.png')
 }
 
-.css3 {
+.simple-icon.css3 {
 	background-color: #0092bf;
 }
 .css3.icon16 {
@@ -874,7 +874,7 @@
 	background-image: url('icons/css3/css3-4096.png')
 }
 
-.delicious {
+.simple-icon.delicious {
 	background-color: #3274d1;
 }
 .delicious.icon16 {
@@ -911,7 +911,7 @@
 	background-image: url('icons/delicious/delicious-4096.png')
 }
 
-.designernews {
+.simple-icon.designernews {
 	background-color: #1c52a2;
 }
 .designernews.icon16 {
@@ -948,7 +948,7 @@
 	background-image: url('icons/designernews/designernews-4096.png')
 }
 
-.deviantart {
+.simple-icon.deviantart {
 	background-color: #4b5d50;
 }
 .deviantart.icon16 {
@@ -985,7 +985,7 @@
 	background-image: url('icons/deviantart/deviantart-4096.png')
 }
 
-.digg {
+.simple-icon.digg {
 	background-color: #14589e;
 }
 .digg.icon16 {
@@ -1022,7 +1022,7 @@
 	background-image: url('icons/digg/digg-4096.png')
 }
 
-.disqus {
+.simple-icon.disqus {
 	background-color: #2e9fff;
 }
 .disqus.icon16 {
@@ -1059,7 +1059,7 @@
 	background-image: url('icons/disqus/disqus-4096.png')
 }
 
-.dribble {
+.simple-icon.dribble {
 	background-color: #ea4c89;
 }
 .dribble.icon16 {
@@ -1096,7 +1096,7 @@
 	background-image: url('icons/dribble/dribble-4096.png')
 }
 
-.dropbox {
+.simple-icon.dropbox {
 	background-color: #2281cf;
 }
 .dropbox.icon16 {
@@ -1133,7 +1133,7 @@
 	background-image: url('icons/dropbox/dropbox-4096.png')
 }
 
-.drupal {
+.simple-icon.drupal {
 	background-color: #0077c0;
 }
 .drupal.icon16 {
@@ -1170,7 +1170,7 @@
 	background-image: url('icons/drupal/drupal-4096.png')
 }
 
-.ebay {
+.simple-icon.ebay {
 	background-color: #0064d2;
 }
 .ebay.icon16 {
@@ -1207,7 +1207,7 @@
 	background-image: url('icons/ebay/ebay-4096.png')
 }
 
-.email {
+.simple-icon.email {
 	background-color: #666666;
 }
 .email.icon16 {
@@ -1244,7 +1244,7 @@
 	background-image: url('icons/email/email-4096.png')
 }
 
-.eventbrite {
+.simple-icon.eventbrite {
 	background-color: #f3844c;
 }
 .eventbrite.icon16 {
@@ -1281,7 +1281,7 @@
 	background-image: url('icons/eventbrite/eventbrite-4096.png')
 }
 
-.eventstore {
+.simple-icon.eventstore {
 	background-color: #6ba300;
 }
 .eventstore.icon16 {
@@ -1318,7 +1318,7 @@
 	background-image: url('icons/eventstore/eventstore-4096.png')
 }
 
-.evernote {
+.simple-icon.evernote {
 	background-color: #7ac142;
 }
 .evernote.icon16 {
@@ -1355,7 +1355,7 @@
 	background-image: url('icons/evernote/evernote-4096.png')
 }
 
-.exfm {
+.simple-icon.exfm {
 	background-color: #0097f8;
 }
 .exfm.icon16 {
@@ -1392,7 +1392,7 @@
 	background-image: url('icons/exfm/exfm-4096.png')
 }
 
-.facebook {
+.simple-icon.facebook {
 	background-color: #3B5998;
 }
 .facebook.icon16 {
@@ -1429,7 +1429,7 @@
 	background-image: url('icons/facebook/facebook-4096.png')
 }
 
-.flickr {
+.simple-icon.flickr {
 	background-color: #0063db;
 }
 .flickr.icon16 {
@@ -1466,7 +1466,7 @@
 	background-image: url('icons/flickr/flickr-4096.png')
 }
 
-.formspring {
+.simple-icon.formspring {
 	background-color: #0076C0;
 }
 .formspring.icon16 {
@@ -1503,7 +1503,7 @@
 	background-image: url('icons/formspring/formspring-4096.png')
 }
 
-.forrst {
+.simple-icon.forrst {
 	background-color: #5b9a68;
 }
 .forrst.icon16 {
@@ -1540,7 +1540,7 @@
 	background-image: url('icons/forrst/forrst-4096.png')
 }
 
-.foursquare {
+.simple-icon.foursquare {
 	background-color: #2398c9;
 }
 .foursquare.icon16 {
@@ -1577,7 +1577,7 @@
 	background-image: url('icons/foursquare/foursquare-4096.png')
 }
 
-.geeklist {
+.simple-icon.geeklist {
 	background-color: #8cc63e;
 }
 .geeklist.icon16 {
@@ -1614,7 +1614,7 @@
 	background-image: url('icons/geeklist/geeklist-4096.png')
 }
 
-.github {
+.simple-icon.github {
 	background-color: #4183C4;
 }
 .github.icon16 {
@@ -1651,7 +1651,7 @@
 	background-image: url('icons/github/github-4096.png')
 }
 
-.goodreads {
+.simple-icon.goodreads {
 	background-color: #5A471B;
 }
 .goodreads.icon16 {
@@ -1688,7 +1688,7 @@
 	background-image: url('icons/goodreads/goodreads-4096.png')
 }
 
-.google {
+.simple-icon.google {
 	background-color: #245dc1;
 }
 .google.icon16 {
@@ -1725,7 +1725,7 @@
 	background-image: url('icons/google/google-4096.png')
 }
 
-.googleplus {
+.simple-icon.googleplus {
 	background-color: #d14836;
 }
 .googleplus.icon16 {
@@ -1762,7 +1762,7 @@
 	background-image: url('icons/googleplus/googleplus-4096.png')
 }
 
-.govuk {
+.simple-icon.govuk {
 	background-color: #231f20;
 }
 .govuk.icon16 {
@@ -1799,7 +1799,7 @@
 	background-image: url('icons/govuk/govuk-4096.png')
 }
 
-.grooveshark {
+.simple-icon.grooveshark {
 	background-color: #000000;
 }
 .grooveshark.icon16 {
@@ -1836,7 +1836,7 @@
 	background-image: url('icons/grooveshark/grooveshark-4096.png')
 }
 
-.hackernews {
+.simple-icon.hackernews {
 	background-color: #ff6600;
 }
 .hackernews.icon16 {
@@ -1873,7 +1873,7 @@
 	background-image: url('icons/hackernews/hackernews-4096.png')
 }
 
-.heroku {
+.simple-icon.heroku {
 	background-color: #6762a6;
 }
 .heroku.icon16 {
@@ -1910,7 +1910,7 @@
 	background-image: url('icons/heroku/heroku-4096.png')
 }
 
-.html5 {
+.simple-icon.html5 {
 	background-color: #f06529;
 }
 .html5.icon16 {
@@ -1947,7 +1947,7 @@
 	background-image: url('icons/html5/html5-4096.png')
 }
 
-.imdb {
+.simple-icon.imdb {
 	background-color: #f3ce00;
 }
 .imdb.icon16 {
@@ -1984,7 +1984,7 @@
 	background-image: url('icons/imdb/imdb-4096.png')
 }
 
-.instagram {
+.simple-icon.instagram {
 	background-color: #3f729b;
 }
 .instagram.icon16 {
@@ -2021,7 +2021,7 @@
 	background-image: url('icons/instagram/instagram-4096.png')
 }
 
-.jquery {
+.simple-icon.jquery {
 	background-color: #0867ab;
 }
 .jquery.icon16 {
@@ -2058,7 +2058,7 @@
 	background-image: url('icons/jquery/jquery-4096.png')
 }
 
-.jqueryui {
+.simple-icon.jqueryui {
 	background-color: #fea620;
 }
 .jqueryui.icon16 {
@@ -2095,7 +2095,7 @@
 	background-image: url('icons/jqueryui/jqueryui-4096.png')
 }
 
-.jsdb {
+.simple-icon.jsdb {
 	background-color: #da320b;
 }
 .jsdb.icon16 {
@@ -2132,7 +2132,7 @@
 	background-image: url('icons/jsdb/jsdb-4096.png')
 }
 
-.jsfiddle {
+.simple-icon.jsfiddle {
 	background-color: #4679a4;
 }
 .jsfiddle.icon16 {
@@ -2169,7 +2169,7 @@
 	background-image: url('icons/jsfiddle/jsfiddle-4096.png')
 }
 
-.justgiving {
+.simple-icon.justgiving {
 	background-color: #78256d;
 }
 .justgiving.icon16 {
@@ -2206,7 +2206,7 @@
 	background-image: url('icons/justgiving/justgiving-4096.png')
 }
 
-.kickstarter {
+.simple-icon.kickstarter {
 	background-color: #87c442;
 }
 .kickstarter.icon16 {
@@ -2243,7 +2243,7 @@
 	background-image: url('icons/kickstarter/kickstarter-4096.png')
 }
 
-.klout {
+.simple-icon.klout {
 	background-color: #e24a25;
 }
 .klout.icon16 {
@@ -2280,7 +2280,7 @@
 	background-image: url('icons/klout/klout-4096.png')
 }
 
-.labour {
+.simple-icon.labour {
 	background-color: #c41230;
 }
 .labour.icon16 {
@@ -2317,7 +2317,7 @@
 	background-image: url('icons/labour/labour-4096.png')
 }
 
-.laravel {
+.simple-icon.laravel {
 	background-color: #fb502b;
 }
 .laravel.icon16 {
@@ -2354,7 +2354,7 @@
 	background-image: url('icons/laravel/laravel-4096.png')
 }
 
-.lastfm {
+.simple-icon.lastfm {
 	background-color: #d51007;
 }
 .lastfm.icon16 {
@@ -2391,7 +2391,7 @@
 	background-image: url('icons/lastfm/lastfm-4096.png')
 }
 
-.layervault {
+.simple-icon.layervault {
 	background-color: #26ae90;
 }
 .layervault.icon16 {
@@ -2428,7 +2428,7 @@
 	background-image: url('icons/layervault/layervault-4096.png')
 }
 
-.letterboxd {
+.simple-icon.letterboxd {
 	background-color: #2c3641;
 }
 .letterboxd.icon16 {
@@ -2465,7 +2465,7 @@
 	background-image: url('icons/letterboxd/letterboxd-4096.png')
 }
 
-.liberaldemocrats {
+.simple-icon.liberaldemocrats {
 	background-color: #f7b135;
 }
 .liberaldemocrats.icon16 {
@@ -2502,7 +2502,7 @@
 	background-image: url('icons/liberaldemocrats/liberaldemocrats-4096.png')
 }
 
-.linkedin {
+.simple-icon.linkedin {
 	background-color: #007FB1;
 }
 .linkedin.icon16 {
@@ -2539,7 +2539,7 @@
 	background-image: url('icons/linkedin/linkedin-4096.png')
 }
 
-.mediatemple {
+.simple-icon.mediatemple {
 	background-color: #000000;
 }
 .mediatemple.icon16 {
@@ -2576,7 +2576,7 @@
 	background-image: url('icons/linkedin/linkedin-4096.png')
 }
 
-.mendeley {
+.simple-icon.mendeley {
 	background-color: #b61f2f;
 }
 .mendeley.icon16 {
@@ -2613,7 +2613,7 @@
 	background-image: url('icons/mendeley/mendeley-4096.png')
 }
 
-.modernizr {
+.simple-icon.modernizr {
 	background-color: #d81a76;
 }
 .modernizr.icon16 {
@@ -2650,7 +2650,7 @@
 	background-image: url('icons/modernizr/modernizr-4096.png')
 }
 
-.myspace {
+.simple-icon.myspace {
 	background-color: #008dde;
 }
 .myspace.icon16 {
@@ -2687,7 +2687,7 @@
 	background-image: url('icons/myspace/myspace-4096.png')
 }
 
-.nationalrail {
+.simple-icon.nationalrail {
 	background-color: #003366;
 }
 .nationalrail.icon16 {
@@ -2724,7 +2724,7 @@
 	background-image: url('icons/nationalrail/nationalrail-4096.png')
 }
 
-.newsvine {
+.simple-icon.newsvine {
 	background-color: #075b2f;
 }
 .newsvine.icon16 {
@@ -2761,7 +2761,7 @@
 	background-image: url('icons/newsvine/newsvine-4096.png')
 }
 
-.office {
+.simple-icon.office {
 	background-color: #eb3c00;
 }
 .office.icon16 {
@@ -2798,7 +2798,7 @@
 	background-image: url('icons/office/office-4096.png')
 }
 
-.orkut {
+.simple-icon.orkut {
 	background-color: #ed2590;
 }
 .orkut.icon16 {
@@ -2835,7 +2835,7 @@
 	background-image: url('icons/orkut/orkut-4096.png')
 }
 
-.outlook {
+.simple-icon.outlook {
 	background-color: #0072c6;
 }
 .outlook.icon16 {
@@ -2872,7 +2872,7 @@
 	background-image: url('icons/outlook/outlook-4096.png')
 }
 
-.path {
+.simple-icon.path {
 	background-color: #e41f11;
 }
 .path.icon16 {
@@ -2909,7 +2909,7 @@
 	background-image: url('icons/path/path-4096.png')
 }
 
-.php {
+.simple-icon.php {
 	background-color: #6181b6;
 }
 .php.icon16 {
@@ -2946,7 +2946,7 @@
 	background-image: url('icons/php/php-4096.png')
 }
 
-.pinboard {
+.simple-icon.pinboard {
 	background-color: #0000ff;
 }
 .pinboard.icon16 {
@@ -2983,7 +2983,7 @@
 	background-image: url('icons/pinboard/pinboard-4096.png')
 }
 
-.pingup {
+.simple-icon.pingup {
 	background-color: #00b1ab;
 }
 .pingup.icon16 {
@@ -3020,7 +3020,7 @@
 	background-image: url('icons/pingup/pingup-4096.png')
 }
 
-.pinterest {
+.simple-icon.pinterest {
 	background-color: #cb2027;
 }
 .pinterest.icon16 {
@@ -3057,7 +3057,7 @@
 	background-image: url('icons/pinterest/pinterest-4096.png')
 }
 
-.posterous {
+.simple-icon.posterous {
 	background-color: #ffdd68;
 }
 .posterous.icon16 {
@@ -3094,7 +3094,7 @@
 	background-image: url('icons/posterous/posterous-4096.png')
 }
 
-.protoio {
+.simple-icon.protoio {
 	background-color: #40c8f4;
 }
 .protoio.icon16 {
@@ -3131,7 +3131,7 @@
 	background-image: url('icons/protoio/protoio-4096.png')
 }
 
-.rails {
+.simple-icon.rails {
 	background-color: #a62c39;
 }
 .rails.icon16 {
@@ -3168,7 +3168,7 @@
 	background-image: url('icons/rails/rails-4096.png')
 }
 
-.readability {
+.simple-icon.readability {
 	background-color: #870000;
 }
 .readability.icon16 {
@@ -3205,7 +3205,7 @@
 	background-image: url('icons/readability/readability-4096.png')
 }
 
-.reddit {
+.simple-icon.reddit {
 	background-color: #ff4500;
 }
 .reddit.icon16 {
@@ -3242,7 +3242,7 @@
 	background-image: url('icons/reddit/reddit-4096.png')
 }
 
-.rss {
+.simple-icon.rss {
 	background-color: #FF8300;
 }
 .rss.icon16 {
@@ -3279,7 +3279,7 @@
 	background-image: url('icons/rss/rss-4096.png')
 }
 
-.simpleicons {
+.simple-icon.simpleicons {
 	background-color: #bf1813;
 }
 .simpleicons.icon16 {
@@ -3316,7 +3316,7 @@
 	background-image: url('icons/simpleicons/simpleicons-4096.png')
 }
 
-.skydrive {
+.simple-icon.skydrive {
 	background-color: #094ab1;
 }
 .skydrive.icon16 {
@@ -3353,7 +3353,7 @@
 	background-image: url('icons/skydrive/skydrive-4096.png')
 }
 
-.skype {
+.simple-icon.skype {
 	background-color: #00aff0;
 }
 .skype.icon16 {
@@ -3390,7 +3390,7 @@
 	background-image: url('icons/skype/skype-4096.png')
 }
 
-.slideshare {
+.simple-icon.slideshare {
 	background-color: #009999;
 }
 .slideshare.icon16 {
@@ -3427,7 +3427,7 @@
 	background-image: url('icons/slideshare/slideshare-4096.png')
 }
 
-.smashingmagazine {
+.simple-icon.smashingmagazine {
 	background-color: #e95c33;
 }
 .smashingmagazine.icon16 {
@@ -3464,7 +3464,7 @@
 	background-image: url('icons/smashingmagazine/smashingmagazine-4096.png')
 }
 
-.soundcloud {
+.simple-icon.soundcloud {
 	background-color: #ff6600;
 }
 .soundcloud.icon16 {
@@ -3501,7 +3501,7 @@
 	background-image: url('icons/soundcloud/soundcloud-4096.png')
 }
 
-.spotify {
+.simple-icon.spotify {
 	background-color: #80b719;
 }
 .spotify.icon16 {
@@ -3538,7 +3538,7 @@
 	background-image: url('icons/spotify/spotify-4096.png')
 }
 
-.squarespace {
+.simple-icon.squarespace {
 	background-color: #000000;
 }
 .squarespace.icon16 {
@@ -3575,7 +3575,7 @@
 	background-image: url('icons/squarespace/squarespace-4096.png')
 }
 
-.stackexchange {
+.simple-icon.stackexchange {
 	background-color: #1f5196;
 }
 .stackexchange.icon16 {
@@ -3612,7 +3612,7 @@
 	background-image: url('icons/stackexchange/stackexchange-4096.png')
 }
 
-.stackoverflow {
+.simple-icon.stackoverflow {
 	background-color: #f47920;
 }
 .stackoverflow.icon16 {
@@ -3649,7 +3649,7 @@
 	background-image: url('icons/stackoverflow/stackoverflow-4096.png')
 }
 
-.stumbleupon {
+.simple-icon.stumbleupon {
 	background-color: #eb4924;
 }
 .stumbleupon.icon16 {
@@ -3686,7 +3686,7 @@
 	background-image: url('icons/stumbleupon/stumbleupon-4096.png')
 }
 
-.superuser {
+.simple-icon.superuser {
 	background-color: #2dabe2;
 }
 .superuser.icon16 {
@@ -3723,7 +3723,7 @@
 	background-image: url('icons/superuser/superuser-4096.png')
 }
 
-.ted {
+.simple-icon.ted {
 	background-color: #ff2b06;
 }
 .ted.icon16 {
@@ -3760,7 +3760,7 @@
 	background-image: url('icons/ted/ted-4096.png')
 }
 
-.trakt {
+.simple-icon.trakt {
 	background-color: #222222;
 }
 .trakt.icon16 {
@@ -3797,7 +3797,7 @@
 	background-image: url('icons/trakt/trakt-4096.png')
 }
 
-.treehouse {
+.simple-icon.treehouse {
 	background-color: #7fa24c;
 }
 .treehouse.icon16 {
@@ -3834,7 +3834,7 @@
 	background-image: url('icons/treehouse/treehouse-4096.png')
 }
 
-.tripadvisor {
+.simple-icon.tripadvisor {
 	background-color: #589442;
 }
 .tripadvisor.icon16 {
@@ -3871,7 +3871,7 @@
 	background-image: url('icons/tripadvisor/tripadvisor-4096.png')
 }
 
-.tumblr {
+.simple-icon.tumblr {
 	background-color: #2c4762;
 }
 .tumblr.icon16 {
@@ -3908,7 +3908,7 @@
 	background-image: url('icons/tumblr/tumblr-4096.png')
 }
 
-.twitter {
+.simple-icon.twitter {
 	background-color: #39A9E0;
 }
 .twitter.icon16 {
@@ -3945,7 +3945,7 @@
 	background-image: url('icons/twitter/twitter-4096.png')
 }
 
-.typo3 {
+.simple-icon.typo3 {
 	background-color: #ff8700;
 }
 .typo3.icon16 {
@@ -3982,7 +3982,7 @@
 	background-image: url('icons/typo3/typo3-4096.png')
 }
 
-.viadeo {
+.simple-icon.viadeo {
 	background-color: #f4982b;
 }
 .viadeo.icon16 {
@@ -4019,7 +4019,7 @@
 	background-image: url('icons/viadeo/viadeo-4096.png')
 }
 
-.vimeo {
+.simple-icon.vimeo {
 	background-color: #44bbff;
 }
 .vimeo.icon16 {
@@ -4056,7 +4056,7 @@
 	background-image: url('icons/vimeo/vimeo-4096.png')
 }
 
-.vine {
+.simple-icon.vine {
 	background-color: #00a47a;
 }
 .vine.icon16 {
@@ -4093,7 +4093,7 @@
 	background-image: url('icons/vine/vine-4096.png')
 }
 
-.visualstudio {
+.simple-icon.visualstudio {
 	background-color: #68217a;
 }
 .visualstudio.icon16 {
@@ -4130,7 +4130,7 @@
 	background-image: url('icons/visualstudio/visualstudio-4096.png')
 }
 
-.w3c {
+.simple-icon.w3c {
 	background-color: #0066b0;
 }
 .w3c.icon16 {
@@ -4167,7 +4167,7 @@
 	background-image: url('icons/w3c/w3c-4096.png')
 }
 
-.windows {
+.simple-icon.windows {
 	background-color: #00bdf6;
 }
 .windows.icon16 {
@@ -4204,7 +4204,7 @@
 	background-image: url('icons/windows/windows-4096.png')
 }
 
-.wordpress {
+.simple-icon.wordpress {
 	background-color: #21759b;
 }
 .wordpress.icon16 {
@@ -4241,7 +4241,7 @@
 	background-image: url('icons/wordpress/wordpress-4096.png')
 }
 
-.yahoo {
+.simple-icon.yahoo {
 	background-color: #731a8b;
 }
 .yahoo.icon16 {
@@ -4278,7 +4278,7 @@
 	background-image: url('icons/yahoo/yahoo-4096.png')
 }
 
-.yelp {
+.simple-icon.yelp {
 	background-color: #c93c27;
 }
 .yelp.icon16 {
@@ -4315,7 +4315,7 @@
 	background-image: url('icons/yelp/yelp-4096.png')
 }
 
-.youtube {
+.simple-icon.youtube {
 	background-color: #cd332d;
 }
 .youtube.icon16 {
